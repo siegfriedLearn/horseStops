@@ -1,5 +1,5 @@
-// This array contains the coordinates for all bus stops between MIT and Harvard
-const busStops = [
+// This array contains the coordinates for all stops
+const horseStops = [
   [ -103.32834090665862, 20.713979106312998],//Guadalajara
   [ -104.87018520090614, 21.935463427426928],//Tierras Nayaritas
   [ -105.7796280689361, 22.83167006056774],//Esquinapa
@@ -15,34 +15,40 @@ const busStops = [
   [ -117.05923039695855, 32.37503021402636],//Rosarito
   [ -116.59964489398374, 31.86708943919681],//Ensenada
 ];
+//Create icon
+const el = document.createElement('div');
+el.className = 'marker';
+el.style.backgroundImage = `url(/horse.png)`;
+el.style.width = `70px`;
+el.style.height = `50px`;
+el.style.backgroundSize = '100%';
 
-// TODO: add your own access token
+//Access token
 mapboxgl.accessToken = 'pk.eyJ1IjoiY2FtbWVkaW5hbWUiLCJhIjoiY2xpdGFtOHVzMDF4bzNkcjF2dXpsbjJqZSJ9.UPLNGKdRC37sfRh4smGQRA';
 
 // This is the map instance
 let map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/streets-v11',
+  style: 'mapbox://styles/cammediname/cliw6xvmk02c701p69s1b4prj',
   center: [-108.94423520446351, 25.863956642013296],
   zoom: 5,
 });
 
-// TODO: add a marker to the map at the first coordinates in the array busStops. The marker variable should be named "marker"
 
-let marker = new mapboxgl.Marker()
+
+// Marker to the map at the first coordinates in the array. The marker variable should be named "marker"
+
+let marker = new mapboxgl.Marker(el)
 .setLngLat([-103.3389863878888, 20.723936112152085])
 .addTo(map);
 
 
-// counter here represents the index of the current bus stop
+//Counter here represents the index of the current horse stop
 let counter = 0;
 function move() {
-  // TODO: move the marker on the map every 1000ms. Use the function marker.setLngLat() to update the marker coordinates
-  // Use counter to access bus stops in the array busStops
-  // Make sure you call move() after you increment the counter.
   setTimeout(()=>{
-    if (counter >= busStops.length) return;
-    marker.setLngLat(busStops[counter]);
+    if (counter >= horseStops.length) return;
+    marker.setLngLat(horseStops[counter]);
     counter++;
     move()
   }
