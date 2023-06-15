@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Este proyecto genera una animación en un mapa de acuerdo a la canción de Jose Alfredo Jiménez El corrido del caballo blanco. En la canción se habla sobre distintos lugares que se visitan en el noreste mexicano.
 
 ## :sparkles: Features ##
 
@@ -58,15 +58,14 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML]
+- [CSS]
+- [JavaScript]
+
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Para ejecutar esa aplicación solo requieres un dispositivo con conexión a internet y un navegador compatible con JavaScript.
 
 ## :checkered_flag: Starting ##
 
@@ -75,15 +74,8 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/siegfriedLearn/mapanimation
 
 # Access
-$ cd mapanimation
+$ Abre la carpeta donde clonaste el repositorio y arrastralo a tu navegador
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
@@ -91,7 +83,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/siegfriedLearn" target="_blank">{{YOUR_NAME}}</a>
+Made by <a href="https://github.com/siegfriedLearn" target="_blank">Carlos Medina</a>
 
 &#xa0;
 
