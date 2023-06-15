@@ -50,8 +50,9 @@ Este proyecto genera una animación en un mapa de acuerdo a la canción de Jose 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\ Animación web
-:heavy_check_mark: Feature 2;\ Uso de api mapbox
+:heavy_check_mark: Feature 1; Animación web\
+:heavy_check_mark: Feature 2; Uso de la api mapbox\
+:heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
 

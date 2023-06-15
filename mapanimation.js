@@ -18,7 +18,7 @@ const horseStops = [
 //Create icon
 const el = document.createElement('div');
 el.className = 'marker';
-el.style.backgroundImage = `url(horse.png)`;
+el.style.backgroundImage = `url(./img/horse.png)`;
 el.style.width = `70px`;
 el.style.height = `50px`;
 el.style.backgroundSize = '100%';
