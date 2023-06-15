@@ -18,7 +18,7 @@ const horseStops = [
 //Create icon
 const el = document.createElement('div');
 el.className = 'marker';
-el.style.backgroundImage = `url(./horse.png)`;
+el.style.backgroundImage = `url(horse.png)`;
 el.style.width = `70px`;
 el.style.height = `50px`;
 el.style.backgroundSize = '100%';
@@ -43,7 +43,7 @@ let marker = new mapboxgl.Marker(el)
 .addTo(map);
 
 
-//Counter here represents the index of the current horse stop
+// Counter here represents the index of the current horse stop
 let counter = 0;
 function move() {
   setTimeout(()=>{
