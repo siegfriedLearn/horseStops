@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="pacmanFactory" />
+  <img src="./.github/app.gif" alt="horseStops" />
 
   &#xa0;
 
-  <!-- <a href="https://pacmanFactory.netlify.app">Demo</a> -->
+  <!-- <a href="https://horseStops.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">PacmanFactory</h1>
+<h1 align="center">Horse Stops</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/siegfriedLearn/pacmanFactory?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/siegfriedLearn/horseStops?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/siegfriedLearn/pacmanFactory?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/siegfriedLearn/horseStops?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/siegfriedLearn/pacmanFactory?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/siegfriedLearn/horseStops?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/siegfriedLearn/pacmanFactory?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/siegfriedLearn/horseStops?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/siegfriedLearn/pacmanFactory?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/siegfriedLearn/horseStops?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/siegfriedLearn/pacmanFactory?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/siegfriedLearn/horseStops?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/siegfriedLearn/pacmanFactory?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/siegfriedLearn/horseStops?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  pacmanFactory 🚀 Under construction...  🚧
+	🚧  horseStops 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -70,7 +70,7 @@ Para ejecutar esta aplicación solo requieres un dispositivo con conexión a int
 
 ```bash
 # Clone this project
-$ git clone https://github.com/siegfriedLearn/pacmanFactory
+$ git clone https://github.com/siegfriedLearn/horseStops
 
 # Access
 $ Abre la carpeta donde clonaste el repositorio y arrastralo a tu navegador
