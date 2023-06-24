@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="MapAnimation" />
+  <img src="./.github/app.gif" alt="pacmanFactory" />
 
   &#xa0;
 
-  <!-- <a href="https://mapanimation.netlify.app">Demo</a> -->
+  <!-- <a href="https://pacmanFactory.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">MapAnimation</h1>
+<h1 align="center">PacmanFactory</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/siegfriedLearn/mapanimation?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/siegfriedLearn/pacmanFactory?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/siegfriedLearn/mapanimation?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/siegfriedLearn/pacmanFactory?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/siegfriedLearn/mapanimation?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/siegfriedLearn/pacmanFactory?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/siegfriedLearn/mapanimation?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/siegfriedLearn/pacmanFactory?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/siegfriedLearn/mapanimation?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/siegfriedLearn/pacmanFactory?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/siegfriedLearn/mapanimation?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/siegfriedLearn/pacmanFactory?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/siegfriedLearn/mapanimation?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/siegfriedLearn/pacmanFactory?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  MapAnimation 🚀 Under construction...  🚧
+	🚧  pacmanFactory 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -52,7 +52,6 @@ Este proyecto genera una animación en un mapa de acuerdo a la canción de Jose 
 
 :heavy_check_mark: Feature 1; Animación web\
 :heavy_check_mark: Feature 2; Uso de la api mapbox\
-:heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
 
@@ -65,13 +64,13 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Para ejecutar esa aplicación solo requieres un dispositivo con conexión a internet y un navegador compatible con JavaScript.
+Para ejecutar esta aplicación solo requieres un dispositivo con conexión a internet y un navegador compatible con JavaScript.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/siegfriedLearn/mapanimation
+$ git clone https://github.com/siegfriedLearn/pacmanFactory
 
 # Access
 $ Abre la carpeta donde clonaste el repositorio y arrastralo a tu navegador
